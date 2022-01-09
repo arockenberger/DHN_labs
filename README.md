@@ -1,3 +1,5 @@
+**This is an archived repository. The active content of the DHNB Working Group for Libraries, Archives and Museums has moved to https://github.com/dhnblam/workshops. There will be no updates to this repository after 2022-01-09**
+
 # DHNB Labs
 
 ***Working Group on Library Labs in the Nordic and Baltic Countries***
